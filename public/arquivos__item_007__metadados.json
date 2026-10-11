@@ -1,0 +1,193 @@
+{
+  "metas": [
+    {
+      "content": "",
+      "name": "",
+      "property": null
+    },
+    {
+      "content": "width=device-width, initial-scale=1",
+      "name": "viewport",
+      "property": null
+    },
+    {
+      "content": "index, follow",
+      "name": "robots",
+      "property": null
+    },
+    {
+      "content": "2i9 NEGÓCIOS DIGITAIS - http://www.2i9.com.br",
+      "name": "author",
+      "property": null
+    },
+    {
+      "content": "Na gravação, voz atribuída ao secretário de Comunicação menciona pagamento por Pix e um Pedido de Inserção",
+      "name": "description",
+      "property": null
+    },
+    {
+      "content": "Francês News, notícias nordeste, notícias alagoas, jornal online AL, notícias região metropolitana Maceió, notícias em tempo real AL",
+      "name": "keywords",
+      "property": null
+    },
+    {
+      "content": "pt_BR",
+      "name": "",
+      "property": "og:locale"
+    },
+    {
+      "content": "Francês News",
+      "name": "",
+      "property": "og:site_name"
+    },
+    {
+      "content": "article",
+      "name": "",
+      "property": "og:type"
+    },
+    {
+      "content": "https://francesnews.com.br/post/2026/09/26/40560-audio-revela-secretario-de-comunicacao-de-alagoas-comprando-apoio-da-imprensa-a-renan-filho-com-dinheiro-publico",
+      "name": "",
+      "property": "og:url"
+    },
+    {
+      "content": "Áudio revela secretário de Comunicação de Alagoas comprando apoio da imprensa a Renan Filho com dinheiro público",
+      "name": "",
+      "property": "og:title"
+    },
+    {
+      "content": "Na gravação, voz atribuída ao secretário de Comunicação menciona pagamento por Pix e um Pedido de Inserção",
+      "name": "",
+      "property": "og:description"
+    },
+    {
+      "content": "1200",
+      "name": "",
+      "property": "og:image:width"
+    },
+    {
+      "content": "630",
+      "name": "",
+      "property": "og:image:height"
+    },
+    {
+      "content": "summary_large_image",
+      "name": "twitter:card",
+      "property": null
+    },
+    {
+      "content": "",
+      "name": "twitter:creator",
+      "property": null
+    },
+    {
+      "content": "Áudio revela secretário de Comunicação de Alagoas comprando apoio da imprensa a Renan Filho com dinheiro público",
+      "name": "twitter:title",
+      "property": null
+    },
+    {
+      "content": "Na gravação, voz atribuída ao secretário de Comunicação menciona pagamento por Pix e um Pedido de Inserção",
+      "name": "twitter:description",
+      "property": null
+    },
+    {
+      "content": "1200",
+      "name": "twitter:image:width",
+      "property": null
+    },
+    {
+      "content": "630",
+      "name": "twitter:image:height",
+      "property": null
+    },
+    {
+      "content": "https://img.dhost.cloud/WX1_ssMtPWW8fspQOvfWqYS6Md8=/1200x630/smart/https://fcomunic.s3.us-west-004.backblazeb2.com/images/81a13/d63fc40ff17ab843fb348e82069ee2df3c1.jpg?name=jhc-divulgou-gravacao-em-que-o-secretario-wendel-palhares-foto-faz-uma-proposta-de-pagamento-a-um-jornalista.jpg",
+      "name": "",
+      "property": "og:image"
+    },
+    {
+      "content": "https://img.dhost.cloud/WX1_ssMtPWW8fspQOvfWqYS6Md8=/1200x630/smart/https://fcomunic.s3.us-west-004.backblazeb2.com/images/81a13/d63fc40ff17ab843fb348e82069ee2df3c1.jpg?name=jhc-divulgou-gravacao-em-que-o-secretario-wendel-palhares-foto-faz-uma-proposta-de-pagamento-a-um-jornalista.jpg",
+      "name": "twitter:image",
+      "property": null
+    },
+    {
+      "content": "#FE2A39",
+      "name": "msapplication-TileColor",
+      "property": null
+    },
+    {
+      "content": "https://fcomunic.s3.us-west-004.backblazeb2.com/cdn/favs/francesnews/ms-icon-144x144.png",
+      "name": "msapplication-TileImage",
+      "property": null
+    },
+    {
+      "content": "#FE2A39",
+      "name": "theme-color",
+      "property": null
+    },
+    {
+      "content": "Francês News | Notícias do Nordeste, Brasil e do mundo em Tempo Real",
+      "name": "title",
+      "property": null
+    }
+  ],
+  "jsonld": [],
+  "times": [
+    {
+      "datetime": "2026-09-26 21:35",
+      "texto": "26/09/2026 21:35"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://fcomunic.s3.us-west-004.backblazeb2.com/ams/c452f/a55047dcc657bd4c4ad6e6250b5a1b491b1.gif"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://img.dhost.cloud/Lesf5hOhEC3IttKc6eRqLzsZyyU=/791x458/smart/https://fcomunic.s3.us-west-004.backblazeb2.com/images/81a13/d63fc40ff17ab843fb348e82069ee2df3c1.jpg?name=jhc-divulgou-gravacao-em-que-o-secretario-wendel-palhares-foto-faz-uma-proposta-de-pagamento-a-um-jornalista.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://fcomunic.s3.us-west-004.backblazeb2.com/ams/f083a/023463fe0fdf5651227bee0adf8962c700d.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://img.dhost.cloud/Ff-7hAKk3pGcUB9LMeDjBwCFLhg=/116x97/smart/https://fcomunic.s3.us-west-004.backblazeb2.com/images/3dd09/d35e7d2b8a9177cd6beaf16a8a7eca32466.jpg?name=megasena-mcjr-abr2jpeg.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://img.dhost.cloud/_0lAIAt5mXIQ_6TkCQYtahC4h34=/116x97/smart/https://fcomunic.s3.us-west-004.backblazeb2.com/images/50a27/fe9ca1867b345b0a6843691846a35d4eab1.jpg?name=4bea4430-71ec-11f0-a178-03cc5fabe4bcpngwebp.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://img.dhost.cloud/5P26votDjHy4P8p27F1DM2l-lTQ=/116x97/smart/https://fcomunic.s3.us-west-004.backblazeb2.com/images/6c32f/de7f850afc7c38759df9961263111c9938a.jpg?name=seedorf-e1791729046451webp.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://img.dhost.cloud/rYeP2uTGAP3N7zo3QJFI84ohXUw=/116x97/smart/https://fcomunic.s3.us-west-004.backblazeb2.com/images/24d44/f897f2472d16dc0eef497e20f04f5547469.jpg?name=capa-signoswebp.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://img.dhost.cloud/NtAmIVOAim9cti1BphfJslHi69g=/116x97/smart/https://fcomunic.s3.us-west-004.backblazeb2.com/images/7a7cc/28c548a5f75fce802f80d3aa4fcfa712e3e.jpg?name=dia-de-sortejpg.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://fcomunic.s3.us-west-004.backblazeb2.com/ams/f083a/023463fe0fdf5651227bee0adf8962c700d.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://fcomunic.s3.us-west-004.backblazeb2.com/cdn/img/logo-2i9.svg"
+    }
+  ]
+}

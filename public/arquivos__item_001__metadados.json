@@ -1,0 +1,202 @@
+{
+  "metas": [
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "viewport",
+      "property": null,
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "robots",
+      "property": null,
+      "content": "max-image-preview:large"
+    },
+    {
+      "name": "generator",
+      "property": null,
+      "content": "WordPress 7.1.3"
+    },
+    {
+      "name": "generator",
+      "property": null,
+      "content": "Everest Forms 3.5.3"
+    },
+    {
+      "name": "generator",
+      "property": null,
+      "content": "WooCommerce 10.3.7"
+    },
+    {
+      "name": "description",
+      "property": null,
+      "content": "Um áudio divulgado neste sábado (26) pelo candidato ao Governo de Alagoas, JHC (PSDB), registra uma conversa na qual uma voz atribuída ao secretário estadual de Comunicação, Wendel Palhares, oferece dinheiro a um jornalista após a publicação de uma fotografia de Renan Filho em um site. A gravação não identifica o veículo nem mostra, por…"
+    },
+    {
+      "name": "",
+      "property": "og:type",
+      "content": "article"
+    },
+    {
+      "name": "",
+      "property": "og:title",
+      "content": "Gravação divulgada por JHC mostra homem identificado como Wendel Palhares negociando R$ 4 mil via Pix e R$ 6 mil em publicidade institucional com jornalista"
+    },
+    {
+      "name": "",
+      "property": "og:url",
+      "content": "https://tecla1.com.br/gravacao-divulgada-por-jhc-mostra-homem-identificado-como-wendel-palhares-negociando-r-4-mil-via-pix-e-r-6-mil-em-publicidade-institucional-com-jornalista/"
+    },
+    {
+      "name": "",
+      "property": "og:description",
+      "content": "Um áudio divulgado neste sábado (26) pelo candidato ao Governo de Alagoas, JHC (PSDB), registra uma conversa na qual uma voz atribuída ao secretário estadual de Comunicação, Wendel Palhares, oferec…"
+    },
+    {
+      "name": "",
+      "property": "article:published_time",
+      "content": "2026-09-27T14:50:11+00:00"
+    },
+    {
+      "name": "",
+      "property": "article:modified_time",
+      "content": "2026-09-27T14:50:11+00:00"
+    },
+    {
+      "name": "",
+      "property": "og:site_name",
+      "content": "Tecla 1"
+    },
+    {
+      "name": "",
+      "property": "og:image",
+      "content": "https://i0.wp.com/tecla1.com.br/wp-content/uploads/2026/09/1001154102.jpg?fit=633%2C771&ssl=1"
+    },
+    {
+      "name": "",
+      "property": "og:image:width",
+      "content": "633"
+    },
+    {
+      "name": "",
+      "property": "og:image:height",
+      "content": "771"
+    },
+    {
+      "name": "",
+      "property": "og:image:alt",
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": "og:locale",
+      "content": "pt_BR"
+    },
+    {
+      "name": "twitter:text:title",
+      "property": null,
+      "content": "Gravação divulgada por JHC mostra homem identificado como Wendel Palhares negociando R$ 4 mil via Pix e R$ 6 mil em publicidade institucional com jornalista"
+    },
+    {
+      "name": "twitter:image",
+      "property": null,
+      "content": "https://i0.wp.com/tecla1.com.br/wp-content/uploads/2026/09/1001154102.jpg?fit=633%2C771&ssl=1&w=640"
+    },
+    {
+      "name": "twitter:card",
+      "property": null,
+      "content": "summary_large_image"
+    },
+    {
+      "name": "msapplication-TileImage",
+      "property": null,
+      "content": "https://i0.wp.com/tecla1.com.br/wp-content/uploads/2021/07/cropped-site.jpg?fit=270%2C270&ssl=1"
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": "https://i0.wp.com/tecla1.com.br/wp-content/uploads/2021/05/cropped-LOGO-TECLA-nova-2.png?fit=187%2C75&ssl=1"
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": "187"
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": "75"
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": "Tecla 1"
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": "https://i0.wp.com/tecla1.com.br/wp-content/uploads/2026/09/1001154102.jpg?fit=633%2C771&ssl=1"
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": "633"
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": "771"
+    }
+  ],
+  "jsonld": [
+    "{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"ImageGallery\",\"associatedMedia\":[{\"@type\":\"ImageObject\",\"contentUrl\":\"https:\\/\\/i0.wp.com\\/tecla1.com.br\\/wp-content\\/uploads\\/2021\\/07\\/memoria-viva-1-scaled.jpg?fit=2560%2C2560&ssl=1\",\"name\":\"memoria viva\"},{\"@type\":\"ImageObject\",\"contentUrl\":\"https:\\/\\/i0.wp.com\\/tecla1.com.br\\/wp-content\\/uploads\\/2021\\/06\\/GELEIA-1-scaled.jpg?fit=2560%2C2133&ssl=1\",\"name\":\"GELEIA\"},{\"@type\":\"ImageObject\",\"contentUrl\":\"https:\\/\\/i0.wp.com\\/tecla1.com.br\\/wp-content\\/uploads\\/2021\\/07\\/delivery-1-scaled.jpeg?fit=2560%2C2560&ssl=1\",\"name\":\"delivery\"}]}"
+  ],
+  "times": [
+    {
+      "datetime": "",
+      "texto": ""
+    },
+    {
+      "datetime": "",
+      "texto": ""
+    },
+    {
+      "datetime": "",
+      "texto": ""
+    },
+    {
+      "datetime": "",
+      "texto": ""
+    },
+    {
+      "datetime": "",
+      "texto": ""
+    },
+    {
+      "datetime": "",
+      "texto": ""
+    },
+    {
+      "datetime": "",
+      "texto": ""
+    },
+    {
+      "datetime": "",
+      "texto": ""
+    }
+  ],
+  "canonical": "https://tecla1.com.br/gravacao-divulgada-por-jhc-mostra-homem-identificado-como-wendel-palhares-negociando-r-4-mil-via-pix-e-r-6-mil-em-publicidade-institucional-com-jornalista/"
+}

@@ -1,0 +1,143 @@
+{
+  "metas": [
+    {
+      "content": "",
+      "name": "",
+      "property": null
+    },
+    {
+      "content": "width=device-width, initial-scale=1",
+      "name": "viewport",
+      "property": null
+    },
+    {
+      "content": "max-image-preview:large",
+      "name": "robots",
+      "property": null
+    },
+    {
+      "content": "WordPress 7.1.3",
+      "name": "generator",
+      "property": null
+    },
+    {
+      "content": "Elementor 4.0.5; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap",
+      "name": "generator",
+      "property": null
+    },
+    {
+      "content": "article",
+      "name": "",
+      "property": "og:type"
+    },
+    {
+      "content": "Áudio atribuído a secretário de AL cita pagamento de R$ 10 mil para retirar foto de Renan Filho",
+      "name": "",
+      "property": "og:title"
+    },
+    {
+      "content": "https://arapiracanews.com.br/?p=43360",
+      "name": "",
+      "property": "og:url"
+    },
+    {
+      "content": "Gravação divulgada por JHC mostra homem identificado como Wendel Palhares negociando R$ 4 mil via Pix e R$ 6 mil em publicidade institucional com jornalista Um áudio divulgado neste sábado (26) pel…",
+      "name": "",
+      "property": "og:description"
+    },
+    {
+      "content": "2026-09-27T14:47:36+00:00",
+      "name": "",
+      "property": "article:published_time"
+    },
+    {
+      "content": "2026-09-27T14:51:10+00:00",
+      "name": "",
+      "property": "article:modified_time"
+    },
+    {
+      "content": "Arapiraca News",
+      "name": "",
+      "property": "og:site_name"
+    },
+    {
+      "content": "https://arapiracanews.com.br/wp-content/uploads/2026/09/WA_1790520306366.jpeg",
+      "name": "",
+      "property": "og:image"
+    },
+    {
+      "content": "633",
+      "name": "",
+      "property": "og:image:width"
+    },
+    {
+      "content": "771",
+      "name": "",
+      "property": "og:image:height"
+    },
+    {
+      "content": "",
+      "name": "",
+      "property": "og:image:alt"
+    },
+    {
+      "content": "pt_BR",
+      "name": "",
+      "property": "og:locale"
+    },
+    {
+      "content": "Áudio atribuído a secretário de AL cita pagamento de R$ 10 mil para retirar foto de Renan Filho",
+      "name": "twitter:text:title",
+      "property": null
+    },
+    {
+      "content": "https://arapiracanews.com.br/wp-content/uploads/2026/09/WA_1790520306366.jpeg?w=640",
+      "name": "twitter:image",
+      "property": null
+    },
+    {
+      "content": "summary_large_image",
+      "name": "twitter:card",
+      "property": null
+    },
+    {
+      "content": "https://arapiracanews.com.br/wp-content/uploads/2022/12/cropped-512-270x270.jpg",
+      "name": "msapplication-TileImage",
+      "property": null
+    }
+  ],
+  "jsonld": [],
+  "times": [],
+  "images": [
+    {
+      "alt": "Arapiraca News",
+      "loaded": true,
+      "src": "https://arapiracanews.com.br/wp-content/uploads/2022/12/ARAPIRACA-NEWS-ok.png"
+    },
+    {
+      "alt": "WEB-BANNER_OLHAR-DA-GENTE_728x90px",
+      "loaded": true,
+      "src": "https://arapiracanews.com.br/wp-content/uploads/2026/09/WEB-BANNER_OLHAR-DA-GENTE_728x90px-1.gif"
+    },
+    {
+      "alt": "Arapiraca News",
+      "loaded": false,
+      "src": "https://arapiracanews.com.br/wp-content/uploads/2022/12/ARAPIRACA-NEWS-ok.png"
+    },
+    {
+      "alt": "WA_1790520306366",
+      "loaded": true,
+      "src": "https://arapiracanews.com.br/wp-content/uploads/2026/09/WA_1790520306366.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://arapiracanews.com.br/wp-content/uploads/2018/11/square-promo-square-red.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://pixel.wp.com/g.gif?v=ext&blog=213526746&post=43360&tz=-3&srv=arapiracanews.com.br&j=1%3A14.1.1&host=arapiracanews.com.br&ref=&fcp=2176&rand=0.351601704929431"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "metas": [
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "viewport",
+      "property": null,
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "property": null,
+      "content": "Um áudio vazado neste sábado (26) e obtido com exclusividade pela Francês FM mostra o secretário de Comunicação de Alagoas, Wendel Palhares, oferecendo R$ 10"
+    },
+    {
+      "name": "robots",
+      "property": null,
+      "content": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "name": "",
+      "property": "og:locale",
+      "content": "pt_BR"
+    },
+    {
+      "name": "",
+      "property": "og:type",
+      "content": "article"
+    },
+    {
+      "name": "",
+      "property": "og:title",
+      "content": "Áudio revela secretário de Comunicação de Alagoas comprando apoio da imprensa a Renan Filho com dinheiro público - Quarto Poder Alagoas"
+    },
+    {
+      "name": "",
+      "property": "og:description",
+      "content": "Um áudio vazado neste sábado (26) e obtido com exclusividade pela Francês FM mostra o secretário de Comunicação de Alagoas, Wendel Palhares, oferecendo R$ 10"
+    },
+    {
+      "name": "",
+      "property": "og:url",
+      "content": "https://quartopoderalagoas.com.br/politica/2026/09/audio-revela-secretario-de-comunicacao-de-alagoas-comprando-apoio-da-imprensa-a-renan-filho-com-dinheiro-publico/"
+    },
+    {
+      "name": "",
+      "property": "og:site_name",
+      "content": "Quarto Poder Alagoas"
+    },
+    {
+      "name": "",
+      "property": "article:section",
+      "content": "Eleições 2026"
+    },
+    {
+      "name": "",
+      "property": "og:image",
+      "content": "https://quartopoderalagoas.com.br/wp-content/uploads/2026/09/IMG_4303.jpeg"
+    },
+    {
+      "name": "",
+      "property": "og:image:secure_url",
+      "content": "https://quartopoderalagoas.com.br/wp-content/uploads/2026/09/IMG_4303.jpeg"
+    },
+    {
+      "name": "",
+      "property": "og:image:width",
+      "content": "399"
+    },
+    {
+      "name": "",
+      "property": "og:image:height",
+      "content": "501"
+    },
+    {
+      "name": "",
+      "property": "og:image:alt",
+      "content": "Áudio revela secretário de Comunicação de Alagoas comprando apoio da imprensa a Renan Filho com dinheiro público"
+    },
+    {
+      "name": "",
+      "property": "og:image:type",
+      "content": "image/jpeg"
+    },
+    {
+      "name": "",
+      "property": "article:published_time",
+      "content": "2026-09-27T04:07:55-03:00"
+    },
+    {
+      "name": "twitter:card",
+      "property": null,
+      "content": "summary_large_image"
+    },
+    {
+      "name": "twitter:title",
+      "property": null,
+      "content": "Áudio revela secretário de Comunicação de Alagoas comprando apoio da imprensa a Renan Filho com dinheiro público - Quarto Poder Alagoas"
+    },
+    {
+      "name": "twitter:description",
+      "property": null,
+      "content": "Um áudio vazado neste sábado (26) e obtido com exclusividade pela Francês FM mostra o secretário de Comunicação de Alagoas, Wendel Palhares, oferecendo R$ 10"
+    },
+    {
+      "name": "twitter:image",
+      "property": null,
+      "content": "https://quartopoderalagoas.com.br/wp-content/uploads/2026/09/IMG_4303.jpeg"
+    },
+    {
+      "name": "twitter:label1",
+      "property": null,
+      "content": "Escrito por"
+    },
+    {
+      "name": "twitter:data1",
+      "property": null,
+      "content": "Redação"
+    },
+    {
+      "name": "twitter:label2",
+      "property": null,
+      "content": "Tempo para leitura"
+    },
+    {
+      "name": "twitter:data2",
+      "property": null,
+      "content": "1 minuto"
+    },
+    {
+      "name": "generator",
+      "property": null,
+      "content": "WordPress 7.1.3"
+    },
+    {
+      "name": "generator",
+      "property": null,
+      "content": "Site Kit by Google 1.188.0"
+    },
+    {
+      "name": "google-adsense-platform-account",
+      "property": null,
+      "content": "ca-host-pub-2644536267352236"
+    },
+    {
+      "name": "google-adsense-platform-domain",
+      "property": null,
+      "content": "sitekit.withgoogle.com"
+    },
+    {
+      "name": "generator",
+      "property": null,
+      "content": "Elementor 4.3.1; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto"
+    },
+    {
+      "name": "msapplication-TileImage",
+      "property": null,
+      "content": "https://quartopoderalagoas.com.br/wp-content/uploads/2020/03/QPAfavicon-300x300.png"
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": "AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": "Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": "A9nrunKdU5m96PSN1XsSGr3qOP0lvPFUB2AiAylCDlN5DTl17uDFkpQuHj1AFtgWLxpLaiBZuhrtb2WOu7ofHwEAAACKeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": "A93bovR+QVXNx2/38qDbmeYYf1wdte9EO37K9eMq3r+541qo0byhYU899BhPB7Cv9QqD7wIbR1B6OAc9kEfYCA4AAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": "A1S5fojrAunSDrFbD8OfGmFHdRFZymSM/1ss3G+NEttCLfHkXvlcF6LGLH8Mo5PakLO1sCASXU1/gQf6XGuTBgwAAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"
+    }
+  ],
+  "jsonld": [
+    "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://quartopoderalagoas.com.br/#organization\",\"name\":\"Quarto Poder Alagoas\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://quartopoderalagoas.com.br/#logo\",\"url\":\"https://quartopoderalagoas.com.br/wp-content/uploads/2022/06/quartopoderlogo2.png\",\"contentUrl\":\"https://quartopoderalagoas.com.br/wp-content/uploads/2022/06/quartopoderlogo2.png\",\"caption\":\"Quarto Poder Alagoas\",\"inLanguage\":\"pt-BR\",\"width\":\"222\",\"height\":\"74\"}},{\"@type\":\"WebSite\",\"@id\":\"https://quartopoderalagoas.com.br/#website\",\"url\":\"https://quartopoderalagoas.com.br\",\"name\":\"Quarto Poder Alagoas\",\"publisher\":{\"@id\":\"https://quartopoderalagoas.com.br/#organization\"},\"inLanguage\":\"pt-BR\"},{\"@type\":\"ImageObject\",\"@id\":\"https://quartopoderalagoas.com.br/wp-content/uploads/2026/09/IMG_4303.jpeg\",\"url\":\"https://quartopoderalagoas.com.br/wp-content/uploads/2026/09/IMG_4303.jpeg\",\"width\":\"399\",\"height\":\"501\",\"inLanguage\":\"pt-BR\"},{\"@type\":\"WebPage\",\"@id\":\"https://quartopoderalagoas.com.br/politica/2026/09/audio-revela-secretario-de-comunicacao-de-alagoas-comprando-apoio-da-imprensa-a-renan-filho-com-dinheiro-publico/#webpage\",\"url\":\"https://quartopoderalagoas.com.br/politica/2026/09/audio-revela-secretario-de-comunicacao-de-alagoas-comprando-apoio-da-imprensa-a-renan-filho-com-dinheiro-publico/\",\"name\":\"\\u00c1udio revela secret\\u00e1rio de Comunica\\u00e7\\u00e3o de Alagoas comprando apoio da imprensa a Renan Filho com dinheiro p\\u00fablico - Quarto Poder Alagoas\",\"datePublished\":\"2026-09-27T04:07:55-03:00\",\"dateModified\":\"2026-09-27T04:07:55-03:00\",\"isPartOf\":{\"@id\":\"https://quartopoderalagoas.com.br/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://quartopoderalagoas.com.br/wp-content/uploads/2026/09/IMG_4303.jpeg\"},\"inLanguage\":\"pt-BR\"},{\"@type\":\"Person\",\"@id\":\"https://quartopoderalagoas.com.br/politica/2026/09/audio-revela-secretario-de-comunicacao-de-alagoas-comprando-apoio-da-imprensa-a-renan-filho-com-dinheiro-publico/#author\",\"name\":\"Reda\\u00e7\\u00e3o\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https://secure.gravatar.com/avatar/444495c8b9778ff956ba57a5dec555514498b46161330cbbe8b49286cff802c6?s=96&amp;d=mm&amp;r=g\",\"url\":\"https://secure.gravatar.com/avatar/444495c8b9778ff956ba57a5dec555514498b46161330cbbe8b49286cff802c6?s=96&amp;d=mm&amp;r=g\",\"caption\":\"Reda\\u00e7\\u00e3o\",\"inLanguage\":\"pt-BR\"},\"sameAs\":[\"https://quartopoderalagoas.com.br\"],\"worksFor\":{\"@id\":\"https://quartopoderalagoas.com.br/#organization\"}},{\"@type\":\"NewsArticle\",\"headline\":\"\\u00c1udio revela secret\\u00e1rio de Comunica\\u00e7\\u00e3o de Alagoas comprando apoio da imprensa a Renan Filho com dinheiro\",\"datePublished\":\"2026-09-27T04:07:55-03:00\",\"dateModified\":\"2026-09-27T04:07:55-03:00\",\"author\":{\"@id\":\"https://quartopoderalagoas.com.br/politica/2026/09/audio-revela-secretario-de-comunicacao-de-alagoas-comprando-apoio-da-imprensa-a-renan-filho-com-dinheiro-publico/#author\",\"name\":\"Reda\\u00e7\\u00e3o\"},\"publisher\":{\"@id\":\"https://quartopoderalagoas.com.br/#organization\"},\"description\":\"Um \\u00e1udio vazado neste s\\u00e1bado (26) e obtido com exclusividade pela Franc\\u00eas FM mostra o secret\\u00e1rio de Comunica\\u00e7\\u00e3o de Alagoas, Wendel Palhares, oferecendo R$ 10\",\"name\":\"\\u00c1udio revela secret\\u00e1rio de Comunica\\u00e7\\u00e3o de Alagoas comprando apoio da imprensa a Renan Filho com dinheiro\",\"@id\":\"https://quartopoderalagoas.com.br/politica/2026/09/audio-revela-secretario-de-comunicacao-de-alagoas-comprando-apoio-da-imprensa-a-renan-filho-com-dinheiro-publico/#richSnippet\",\"isPartOf\":{\"@id\":\"https://quartopoderalagoas.com.br/politica/2026/09/audio-revela-secretario-de-comunicacao-de-alagoas-comprando-apoio-da-imprensa-a-renan-filho-com-dinheiro-publico/#webpage\"},\"image\":{\"@id\":\"https://quartopoderalagoas.com.br/wp-content/uploads/2026/09/IMG_4303.jpeg\"},\"inLanguage\":\"pt-BR\",\"mainEntityOfPage\":{\"@id\":\"https://quartopoderalagoas.com.br/politica/2026/09/audio-revela-secretario-de-comunicacao-de-alagoas-comprando-apoio-da-imprensa-a-renan-filho-com-dinheiro-publico/#webpage\"}}]}"
+  ],
+  "times": [
+    {
+      "datetime": null,
+      "texto": "27/09/2026"
+    }
+  ],
+  "canonical": "https://quartopoderalagoas.com.br/politica/2026/09/audio-revela-secretario-de-comunicacao-de-alagoas-comprando-apoio-da-imprensa-a-renan-filho-com-dinheiro-publico/"
+}
