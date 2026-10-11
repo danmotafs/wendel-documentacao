@@ -1,0 +1,57 @@
+{
+  "captions": [],
+  "metas": [
+    {
+      "content": "article",
+      "property": "og:type"
+    },
+    {
+      "content": "Portal João Lucas",
+      "property": "og:site_name"
+    },
+    {
+      "content": "pt_BR",
+      "property": "og:locale"
+    },
+    {
+      "content": "Áudio atribuído a secretário de Comunicação de Alagoas cita R$ 6 mil para retirar foto de Renan Filho - Portal João Lucas",
+      "property": "og:title"
+    },
+    {
+      "content": "Gravação divulgada por JHC mostra voz atribuída a Wendel Palhares mencionando pagamento via Pix e publicidade institucional; caso deverá ser apurado pelas autoridades",
+      "property": "og:description"
+    },
+    {
+      "content": "https://www.portaljoaolucas.com.br/noticia/audio-atribuido-a-secretario-de-comunicacao-de-alagoas-cita-r-10-mil-para-retirar-foto-de-renan-filho",
+      "property": "og:url"
+    },
+    {
+      "content": "https://www.portaljoaolucas.com.br/uploads/images/2026/09/audio-atribuido-a-secretario-de-comunicacao-de-alagoas-cita-r-10-mil-para-retirar-foto-de-renan-filho.png",
+      "property": "og:image"
+    },
+    {
+      "content": "1200",
+      "property": "og:image:width"
+    },
+    {
+      "content": "630",
+      "property": "og:image:height"
+    }
+  ],
+  "times": [
+    {
+      "texto": "Em 27/09/2026 08:56"
+    },
+    {
+      "texto": "- Atualizado 27/09/2026 09:22"
+    }
+  ],
+  "title": "Áudio atribuído a secretário de Comunicação de Alagoas cita R$ 6 mil para retirar foto de Renan Filho - Portal João Lucas",
+  "url": "https://www.portaljoaolucas.com.br/noticia/audio-atribuido-a-secretario-de-comunicacao-de-alagoas-cita-r-10-mil-para-retirar-foto-de-renan-filho",
+  "video": [
+    {
+      "ready": 4,
+      "width": 1080
+    }
+  ]
+}
